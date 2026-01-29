@@ -3,6 +3,6 @@ This Repo consists majorly computer science core subjects such as OOPS, DBMS{SQL
 This notes is collected from different sources and is mainly to revise and recap the oops concepts for interviews or exams or  real world problem solving
 
 
-[COMPUTER NETWORKS](COMPUTER%20NETWORKS/COMPUTER%20NETWORKS.TXT)
+[COMPUTER NETWORKS](https://github.com/pailasharmila/Computer_Core-Subject_concepts/blob/main/COMPUTER%20NETWORKS)
 
 
