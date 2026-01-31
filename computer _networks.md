@@ -9,7 +9,6 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 
 ### 🔹 OSI Model (7 Layers) – In-Depth Explanation 📖   
 - [Understanding the OSI Model – All 7 Layers Explained](https://makarand-khiste.medium.com/understanding-the-osi-model-all-7-layers-explained-with-architecture-afd42c7b7483)
----
 ### 🔹 TCP/IP Model – From Novice to Pro📖  
 - [Mastering the TCP/IP Model – Layers & Advanced Networking](https://medium.com/@nay1228/day-2-mastering-the-tcp-ip-model-layers-and-advanced-networking-challenges-80d4fffdc6a9)
 ---
