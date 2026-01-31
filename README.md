@@ -13,7 +13,7 @@ This notes is collected from different sources and is mainly to practice from th
 
 ## 📘 Reference links
 
-- [Computer Networks](computer_networks.md)
+- [Computer Networks](https://github.com/pailasharmila/Computer_Core-Subject_concepts/blob/main/computer%20_networks.md)
 
 
 
