@@ -1,8 +1,19 @@
 # Computer_Core-Subject_concepts
-This Repo consists majorly computer science core subjects such as OOP, DBMS{SQL&POSTGRES} ,ComputerNetworks, Operating systems
-This notes is collected from different sources and is mainly to revise and recap the oops concepts for interviews or exams or  real world problem solving
 
+This repository covers major Computer Science core subjects such as:
 
-[COMPUTER NETWORKS](https://github.com/pailasharmila/Computer_Core-Subject_concepts/blob/main/computer%20_networks.md)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (SQL & PostgreSQL)
+- Computer Networks
+- Operating Systems
+
+This notes is collected from different sources and is mainly to practice from the basics or to  revise and recap the computer core concepts for interviews or exams or real world problem solving.
+
+---
+
+## 📘 Reference links
+
+- [Computer Networks](computer_networks.md)
+
 
 
