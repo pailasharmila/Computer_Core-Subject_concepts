@@ -18,5 +18,5 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 ### 🔹 Using HTTP cookies- complete basic information 📖
 - [Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies)
 ### 🔹 Third Party cookies- complete information 📖
--[Third Party cookies](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/Third-party_cookies)
+- [Third Party cookies](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/Third-party_cookies)
 ---
