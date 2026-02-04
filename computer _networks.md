@@ -20,3 +20,10 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 ### 🔹 Third Party cookies- complete information 📖
 - [Third Party cookies](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/Third-party_cookies)
 ---
+
+## How Does Email Work?
+
+### 🔹network processes behind the working of email
+- [How does Email Work](https://medium.com/@shunxianou/how-does-email-work-5964aec2d314)
+- <img width="395" height="268" alt="image" src="https://github.com/user-attachments/assets/56ef7137-2946-465c-87d4-873c4259010b" />
+
