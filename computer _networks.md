@@ -27,3 +27,8 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 - [How does Email Work](https://medium.com/@shunxianou/how-does-email-work-5964aec2d314)
 - <img width="395" height="268" alt="image" src="https://github.com/user-attachments/assets/56ef7137-2946-465c-87d4-873c4259010b" />
 
+## Domain Name systems
+
+### ...
+[DNS](https://www.geeksforgeeks.org/computer-networks/domain-name-system-dns-in-application-layer/)
+
