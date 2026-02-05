@@ -29,6 +29,6 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 
 ## Domain Name systems
 
-### ...
+### 🔹DNS, Working of DNS,Structure of DNS, types of Domains ,DNS queries,
 [DNS](https://www.geeksforgeeks.org/computer-networks/domain-name-system-dns-in-application-layer/)
 
