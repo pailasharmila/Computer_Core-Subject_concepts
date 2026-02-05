@@ -33,4 +33,11 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
 - [DNS](https://www.geeksforgeeks.org/computer-networks/domain-name-system-dns-in-application-layer/)
   - <img width="477" height="201" alt="image" src="https://github.com/user-attachments/assets/fd00cdb3-c405-4270-ace0-b731891e511a" />
 
+## Transport layer
+  - Main Protocols Transmission Control Protocol
+    -  (TCP): A reliable, connection-oriented protocol that ensures data arrives in order and without errors using a three-way handshake (\(SYN\), \(SYN-ACK\), \(ACK\)). It is used for web browsing (HTTP), email (SMTP), and file transfer (FTP).User Datagram Protocol
+    -   (UDP): A fast, connectionless protocol that does not guarantee delivery or order. It is used for real-time applications like streaming, voice over IP (VoIP), and DNS
+    -   TCP uses several timers to ensure that excessive delays are not encountered during communications. Several of these timers are elegant, handling problems that are not immediately obvious at first analysis.
+    -   this layer takes care of cognestion control,{explore the related algorithms}
+    -   Transport layer sequence numbers (specifically in TCP) are 32-bit identifiers assigned to each byte of transmitted data to ensure ordered delivery, reliability, and error control. By numbering segments sequentially, the receiver can reassemble out-of-order packets, detect missing data, and handle packet retransmission.
 
