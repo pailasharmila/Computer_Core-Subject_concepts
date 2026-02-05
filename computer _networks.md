@@ -41,3 +41,5 @@ A comprehensive YouTube lecture covering core networking concepts with clear exp
     -   this layer takes care of cognestion control,{explore the related algorithms}
     -   Transport layer sequence numbers (specifically in TCP) are 32-bit identifiers assigned to each byte of transmitted data to ensure ordered delivery, reliability, and error control. By numbering segments sequentially, the receiver can reassemble out-of-order packets, detect missing data, and handle packet retransmission.
 
+  ## TCP'S 3 WAY HAND SHAKE AND SEGMENT STRUCTURE
+       [SOURCE LINK](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
